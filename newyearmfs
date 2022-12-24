@@ -1,8 +1,8 @@
 local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
 
 local Window = Rayfield:CreateWindow({
-	Name = "Frosty Ware V4 Release (🎄 Hood Modded)",
-	LoadingTitle = "Frosty Ware V4 Release (🎄 Hood Modded)",
+	Name = "Frosty Ware V4 Release (🧨 Hood Modded)",
+	LoadingTitle = "Frosty Ware V4 Release (🧨 Hood Modded)",
 	LoadingSubtitle = "by XUKT#0001",
 	ConfigurationSaving = {
 		Enabled = true,
@@ -16,19 +16,19 @@ local Window = Rayfield:CreateWindow({
         },
 	KeySystem = true, -- Set this to true to use our key system
 	KeySettings = {
-		Title = "Frosty Ware V4 Key System (🎄 Hood Modded)",
+		Title = "Frosty Ware V4 Key System (🧨 Hood Modded)",
 		Subtitle = "Key System",
 		Note = "Join the discord (https://discord.gg/a4RBRBHG)",
 		FileName = "Key for frostyware",
 		SaveKey = false,
 		GrabKeyFromSite = false, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
-		Key = "1043284055577333770.504625649022009345"
+		Key = "New.year.mfs"
 	}
 })
 
 Rayfield:Notify({
    Title = "Ty for using Frosty Ware V4",
-   Content = "Happy xmas 🎄",
+   Content = "Happy new year 🧨",
    Duration = 10.5,
    Image = 4483362458,
    Actions = { -- Notification Buttons
